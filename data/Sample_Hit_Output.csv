@@ -1,0 +1,77 @@
+,URI,TrackName,ArtistURI,ArtistName,ArtistPopularity,ArtistGenres,Album,TrackPopularity,Explicit
+0,spotify:track:3rUGC1vUpkDG9CZFHMur1t,greedy,spotify:artist:45dkTj5sMRSjrmBSBeiHym,Tate McRae,78,"['alt z', 'pop']",greedy,89,True
+1,spotify:track:5mjYQaktjmjcMKcUIcqz4s,Strangers,spotify:artist:7uMDnSZyUYNBPLhPMNuaM2,Kenya Grace,73,[],Strangers,92,False
+2,spotify:track:2IGMVunIBsBLtEQyoI1Mu7,Paint The Town Red,spotify:artist:5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,89,"['dance pop', 'pop']",Paint The Town Red,100,True
+3,spotify:track:4rXLjWdF2ZZpXCVTfWcshS,fukumean,spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ,Gunna,85,"['atl hip hop', 'melodic rap', 'rap', 'trap']",a Gift & a Curse,95,True
+4,spotify:track:4PMdq7Q7xOFrY424ZelZEb,Radio,spotify:artist:00FQb4jTyendYWaN8pK0wa,Lana Del Rey,90,"['art pop', 'pop']",Born To Die - The Paradise Edition,73,True
+5,spotify:track:73RbfOTJIjHzi2pcVHjeHM,What It Is (Solo Version),spotify:artist:4E2rKHVDssGJm2SCDOMMJB,Doechii,73,['alternative r&b'],What It Is (Versions),88,True
+6,spotify:track:4TNFLwe6DhtR3Wn1JKMqMJ,Makeba,spotify:artist:2HHmvvSQ44ePDH7IKVzgK0,Jain,70,['french pop'],Zanaka (Deluxe),79,False
+7,spotify:track:59NraMJsLaMCVtwXTSia8i,Prada,spotify:artist:5wCmhq5J2hPwL2r0eKurxn,cassö,72,[],Prada,91,True
+8,spotify:track:741UUVE2kuITl0c6zuqqbO,Barbie World (with Aqua) [From Barbie The Album],spotify:artist:0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,86,"['hip pop', 'pop', 'queens hip hop', 'rap']",Barbie World (with Aqua) [From Barbie The Album],92,True
+9,spotify:track:2i2gDpKKWjvnRTOZRhaPh2,Moonlight,spotify:artist:1U1el3k54VvEUzo3ybLPlM,Kali Uchis,84,['colombian pop'],Moonlight,87,False
+10,spotify:track:3XKIUb7HzIF1Vu9usunMzc,Maria Maria,spotify:artist:6GI52t8N5F02MxU0g5U69P,Santana,70,"['blues rock', 'classic rock', 'mexican classic rock']",Supernatural (Remastered),79,False
+11,spotify:track:2FDTHlrBguDzQkp7PVj16Q,Sprinter,spotify:artist:6Ip8FS7vWT1uKkJSweANQK,Dave,81,['uk hip hop'],Sprinter,94,True
+12,spotify:track:5LrN7yUQAzvthd4QujgPFr,Here With Me,spotify:artist:5y8tKLUfMvliMe8IKamR32,d4vd,77,"['bedroom pop', 'bedroom r&b']",Petals to Thorns,89,False
+13,spotify:track:3xKsf9qdS1CyvXSMEid6g8,Pink + White,spotify:artist:2h93pZq0e7k5yf4dywlkpM,Frank Ocean,83,"['lgbtq+ hip hop', 'neo soul']",Blonde,89,False
+14,spotify:track:1odExI7RdWc4BT515LTAwj,Daylight,spotify:artist:33NVpKoXjItPwUJTMZIOiY,David Kushner,77,['gen z singer-songwriter'],Daylight,94,False
+15,spotify:track:3IX0yuEVvDbnqUwMBB3ouC,bad idea right?,spotify:artist:1McMsnEElThX1knmY4oliG,Olivia Rodrigo,91,['pop'],GUTS,92,True
+16,spotify:track:50x1Ic8CaXkYNvjmxe3WXy,Those Eyes,spotify:artist:69bG9tC62d8oTFC9aTTosn,New West,70,['toronto indie'],Those Eyes,88,False
+17,spotify:track:7KA4W4McWYRpgf0fWsJZWB,See You Again (feat. Kali Uchis),spotify:artist:4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",84,"['hip hop', 'rap']",Flower Boy,91,True
+18,spotify:track:6njJR3OIp3oA0Kc4aC9Tzf,MONTAGEM - PR FUNK,spotify:artist:6zFMFB1JvNHkHvCSudF4id,S3BZS,71,[],MONTAGEM - PR FUNK,88,False
+19,spotify:track:7sliFe6W30tPBPh6dvZsIH,Area Codes,spotify:artist:1YRqgFNXqRyMDRr8ClS1NL,Kaliii,67,['rap'],Area Codes,82,True
+20,spotify:track:5odlY52u43F5BjByhxg7wg,golden hour,spotify:artist:164Uj4eKjl6zTBKfJLFKKK,JVKE,77,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",this is what ____ feels like (Vol. 1-4),85,False
+21,spotify:track:6UN73IYd0hZxLi8wFPMQij,Players,spotify:artist:6AMd49uBDJfhf30Ak2QR5s,Coi Leray,76,"['new jersey underground rap', 'trap queen']",Players,81,True
+22,spotify:track:3xIMkM5LgbVDkpO74O3Np3,Rush,spotify:artist:3WGpXCj9YhhfX11TToZcXP,Troye Sivan,77,"['australian pop', 'pop', 'viral pop']",Rush,88,True
+23,spotify:track:22I3h5AOENlH4CqXJsEbFR,Collide (feat. Tyga),spotify:artist:0jUQSUOcM7lxVn5eVGTkzQ,Justine Skye,67,"['pop r&b', 'r&b']",Collide (feat. Tyga),76,True
+24,spotify:track:424DkevE18QJazwlljiTD4,Le Monde,spotify:artist:6jlwBcuB3gOuSR4Hb6MmVU,Richard Carter,61,[],Talk to Me (Original Soundtrack),81,False
+25,spotify:track:7DbdUf8aHSYoliSjO6LZv6,"Sex, Drugs, Etc.",spotify:artist:7I3bkknknQkIiatWiupQgD,Beach Weather,69,[],Chit Chat,82,False
+26,spotify:track:0JXXNGljqupsJaZsgSbMZV,Sure Thing,spotify:artist:360IAlyVv4PCEVjgyMZrxK,Miguel,78,"['r&b', 'urban contemporary']",All I Want Is You,88,False
+27,spotify:track:1Ukxccao1BlWrPhYkcXbwZ,From The Start,spotify:artist:7gW0r5CkdEUMm42w9XpyZO,Laufey,79,['gen z singer-songwriter'],From The Start,87,False
+28,spotify:track:43MifzVnh8W3jJN0xqU9jR,Wasted Summers,spotify:artist:496w0Fyed8J7IRzn5Ffb6x,juju<3,63,[],Wasted Summers,83,False
+29,spotify:track:1Hv1VTm8zeOeybub15mA2R,Smooth Operator - Single Version,spotify:artist:47zz7sob9NUcODy0BTDvKx,Sade,72,"['british soul', 'sophisti-pop']",The Best of Sade,81,False
+30,spotify:track:739WUU1tPFLO4x4HJq561K,Cupid - Twin Ver.,spotify:artist:4GJ6xDCF5jaUqD6avOuQT6,FIFTY FIFTY,74,['k-pop girl group'],The Beginning,50,False
+31,spotify:track:1daDRI9ahBonbWD8YcxOIB,Angels Like You,spotify:artist:5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,85,['pop'],Plastic Hearts,89,False
+32,spotify:track:6dBUzqjtbnIa1TwYbyw5CM,Lovers Rock,spotify:artist:0Y6dVaC9DZtPNH4591M42W,TV Girl,78,['pov: indie'],French Exit,87,False
+33,spotify:track:1Y3LN4zO1Edc2EluIoSPJN,Until I Found You (with Em Beihold) - Em Beihold Version,spotify:artist:5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,75,['gen z singer-songwriter'],Until I Found You (Em Beihold Version),89,False
+34,spotify:track:4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,spotify:artist:4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,73,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",Songs From The Big Chair (Super Deluxe Edition),89,False
+35,spotify:track:3hxIUxnT27p5WcmjGUXNwx,Shut up My Moms Calling,spotify:artist:35WVTyRnKAoaGExqgktVyb,Hotel Ugly,74,['modern indie pop'],Shut up My Moms Calling,88,False
+36,spotify:track:23RoR84KodL5HWvUTneQ1w,(It Goes Like) Nanana - Edit,spotify:artist:2mLA48B366zkELXYx7hcDN,Peggy Gou,74,"['electra', 'float house']",(It Goes Like) Nanana [Edit],92,False
+37,spotify:track:1cKHdTo9u0ZymJdPGSh6nq,I Was Never There,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,94,"['canadian contemporary r&b', 'canadian pop', 'pop']","My Dear Melancholy,",86,False
+38,spotify:track:1kuGVB7EU95pJObxwvfwKS,vampire,spotify:artist:1McMsnEElThX1knmY4oliG,Olivia Rodrigo,91,['pop'],GUTS,93,True
+39,spotify:track:6maTPqynTmrkWIralgGaoP,If We Ever Broke Up,spotify:artist:311uEW9rt5g2NmzjGEKS2E,Mae Stephens,66,['singer-songwriter pop'],If We Ever Broke Up,83,True
+40,spotify:track:7ABLbnD53cQK00mhcaOUVG,LALA,spotify:artist:7iK8PXO48WeuP03g8YR51W,Myke Towers,87,"['reggaeton', 'trap latino', 'urbano latino']",LA VIDA ES UNA,97,True
+41,spotify:track:4lMyi03aRk8nPBLLGyqAVz,It's Getting Hot,spotify:artist:0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,79,"['memphis hip hop', 'rap']",It's Getting Hot,82,True
+42,spotify:track:5mHdCZtVyb4DcJw8799hZp,Escapism.,spotify:artist:5KKpBU5eC2tJDzf0wmlRp2,RAYE,78,"['uk contemporary r&b', 'uk pop']",My 21st Century Blues,85,True
+43,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,spotify:artist:5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,82,"['piano rock', 'pop']","I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",90,False
+44,spotify:track:0QZ5yyl6B6utIWkxeBDxQN,The Night We Met,spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,73,"['indie folk', 'modern rock', 'stomp and holler']",Strange Trails,80,False
+45,spotify:track:37vVp2sWHuuIBOSl1NswP6,i'm yours,spotify:artist:5arKwJZEvT5uKq4o0JfqR4,Isabel LaRosa,72,"['dark r&b', 'hyperpop']",i'm yours,81,False
+46,spotify:track:2Ch7LmS7r2Gy2kc64wv3Bz,Die For You,spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,94,"['canadian contemporary r&b', 'canadian pop', 'pop']",Starboy,84,False
+47,spotify:track:2aI21FnmY7TJVKeMaoQZ0t,Say It Right,spotify:artist:2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,76,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",Loose,81,False
+48,spotify:track:3OHfY25tqY28d16oZczHc8,Kill Bill,spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,SZA,89,"['pop', 'r&b', 'rap']",SOS,86,False
+49,spotify:track:5CM4UuQ9Gnd6K2YyKGPMoK,Bad Habit,spotify:artist:57vWImR43h4CaDao012Ofp,Steve Lacy,80,['afrofuturism'],Bad Habit,81,True
+50,spotify:track:6AQbmUe0Qwf5PZnt4HmTXv,Boy's a Liar Pt. 2,spotify:artist:78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,77,['bedroom pop'],Boy's a liar Pt. 2,89,True
+51,spotify:track:5IgjP7X4th6nMNDh4akUHb,Under The Influence,spotify:artist:7bXgB6jMjp9ATFy66eO08Z,Chris Brown,85,"['pop rap', 'r&b', 'rap']",Indigo (Extended),87,True
+52,spotify:track:3NRql0A1Ef4RCvT473iqgD,Hell N Back,spotify:artist:3K2Srho6NCF3o9MswGR76H,Bakar,69,['uk alternative hip hop'],Hell N Back,81,True
+53,spotify:track:0FA4wrjDJvJTTU8AepZTup,Watch This - ARIZONATEARS Pluggnb Remix,spotify:artist:4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,85,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",Watch This (ARIZONATEARS Pluggnb Remix),84,True
+54,spotify:track:2cSdAkzAf2T4j4aLvx4LLz,Baby Girl,spotify:artist:5Kmr0b3ip8g9P2i0dLTC3Z,Disco Lines,61,['stutter house'],Baby Girl,76,False
+55,spotify:track:6qyS9qBy0mEk3qYaH8mPss,Murder In My Mind,spotify:artist:2W6WP4pHQTFlbr2z9S4n54,Kordhell,75,['drift phonk'],Murder In My Mind,86,True
+56,spotify:track:561jH07mF1jHuk7KlaeF0s,Mockingbird,spotify:artist:7dGJo4pcD2V6oG8kP0tJRR,Eminem,89,"['detroit hip hop', 'hip hop', 'rap']",Encore (Deluxe Version),88,True
+57,spotify:track:73vIOb4Q7YN6HeJTbscRx5,Miss You,spotify:artist:6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,73,['alternative hip hop'],Miss You,82,True
+58,spotify:track:5YqEzk3C5c3UZ1D5fJUlXA,Sunroof,spotify:artist:7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,68,['singer-songwriter pop'],Good Times Go,85,False
+59,spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2,Snooze,spotify:artist:7tYKF4w9nC0nq9CsPZTHyP,SZA,89,"['pop', 'r&b', 'rap']",SOS,91,True
+60,spotify:track:48CKzGWOC65n8a8kdANJV8,Only Love Can Hurt Like This - Slowed Down Version,spotify:artist:4fwuXg6XQHfdlOdmw36OHa,Paloma Faith,66,"['british soul', 'talent show']",Only Love Can Hurt Like This (Slowed Down Version),69,False
+61,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,Sweater Weather,spotify:artist:77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,82,"['modern alternative rock', 'modern rock', 'pop']",I Love You.,90,False
+62,spotify:track:0VgkVdmE4gld66l8iyGjgx,Mask Off,spotify:artist:1RyvyyTE3xzB2ZywiAwp0i,Future,89,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",FUTURE,82,True
+63,spotify:track:4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,spotify:artist:0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,86,"['hip pop', 'pop', 'queens hip hop', 'rap']",Super Freaky Girl,77,True
+64,spotify:track:2IlT65thKQQw248mhk2PjQ,JACKIE BROWN,spotify:artist:3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,82,"['r&b', 'rap']",WASTELAND,81,True
+65,spotify:track:1xK59OXxi2TAAAbmZK0kBL,Romantic Homicide,spotify:artist:5y8tKLUfMvliMe8IKamR32,d4vd,77,"['bedroom pop', 'bedroom r&b']",Romantic Homicide,89,False
+66,spotify:track:4pV6Kx1T9L49PBFwH1g8ca,Aces,spotify:artist:5FU1KYJheed7LZIM2r6KrE,dkj,53,[],Aces,71,False
+67,spotify:track:3RKjTYlQrtLXCq5ncswBPp,"Hey, Mickey!",spotify:artist:3IJ21966TwNZI24MwZHMu4,Baby Tate,66,['trap queen'],"Hey, Mickey!",76,False
+68,spotify:track:3LtpKP5abr2qqjunvjlX5i,Doja,spotify:artist:5H4yInM5zmHqpKIoMNAx4r,Central Cee,82,['melodic drill'],Doja,85,True
+69,spotify:track:27ZZdyTSQWI7Cug2d2PkqV,BILLIE EILISH.,spotify:artist:2qAwMsiIjTzlmfAkXKvhVA,Armani White,63,['indie hip hop'],BILLIE EILISH.,75,True
+70,spotify:track:26b3oVLrRUaaybJulow9kz,People,spotify:artist:7kjSuFGKhLm8b5qXoMhRkJ,Libianca,71,['afrobeats'],People,88,False
+71,spotify:track:1Fid2jjqsHViMX6xNH70hE,Atlantis,spotify:artist:4Ly0KABsxlx4fNj63zJTrF,Seafret,68,['folk-pop'],Tell Me It's Real (Expanded Edition),85,False
+72,spotify:track:4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,87,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",I'm Good (Blue),91,True
+73,spotify:track:76OGwb5RA9h4FxQPT33ekc,SNAP,spotify:artist:46xBNx0j6cwY6sD9LgMTm1,Rosa Linn,69,['alt z'],SNAP,87,False
+74,spotify:track:1yvMUkIOTeUNtNWlWRgANS,Unstoppable,spotify:artist:5WUlDfRSoLAfcVSX1WnrxN,Sia,82,"['australian dance', 'australian pop', 'pop']",This Is Acting (Deluxe Version),82,False
+75,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,spotify:artist:3MZsBdqDrRTJihTHQrO6Dq,Joji,79,['viral pop'],Glimpse of Us,83,False
